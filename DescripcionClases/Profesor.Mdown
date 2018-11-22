@@ -1,8 +1,8 @@
-#Profesor
+# Profesor
 
 Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabajar con la base de datos.
 
-##Atributos
+## Atributos
 
 * Credenciales:
 
@@ -16,7 +16,7 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 * DNI: Numero del documento nacional de identidad del profesor sin tener en cuenta la letra.
 
-##Operaciones
+## Operaciones
 
 * Añadir_alumno: Función que permite añadir un nuevo alumno dentro de la base de datos.
 

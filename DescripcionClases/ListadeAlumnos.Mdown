@@ -2,7 +2,7 @@
 
 Clase que recoge toda la información de todos los alumnos y la almacena para posteriormente trabajar con ella.
 
-##Atributos
+## Atributos
 
 
 * Nº Alumnos: Número de alumnos dentro de la lista de alumnos.

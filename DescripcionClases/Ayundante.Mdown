@@ -2,6 +2,6 @@
 
 Clase heredada de la clase "Profesor" que sera encargado de todo lo que puede realizar un profesor pero no podrá crear copias de seguridad.
 
-##Atributos
+## Atributos
 
-##Operaciones
+## Operaciones

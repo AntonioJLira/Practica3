@@ -2,12 +2,12 @@
 
 Clase que recoge la información de la lista de alumnos en un momento determinado guardando esta infomación.
 
-##Atributos
+## Atributos
 
 * Nombre: Nombre identificador de la copia de seguridad.
 
 * Fecha ultima copia: Fecha de la ultima copia de seguridad realizada en el sistema.
 
-##Operaciones
+## Operaciones
 
 * Mostrar_Fecha_Ultima_Copia: Muestra la fecha de la ultima copia realizada.

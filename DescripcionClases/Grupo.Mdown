@@ -2,7 +2,7 @@
 
 Clase que recoge los datos de un conjunto de alumnos que forman parte del mismo grupo
 
-##Atributos
+## Atributos
 
 
 * Nº_alumnos_grupo: Numero de alumnos que forman el grupo.
@@ -17,7 +17,7 @@ Clase que recoge los datos de un conjunto de alumnos que forman parte del mismo 
 
 * Curso_mas_alto_cursado: Curso mas alto cursado por el alumno este año.
 
-##Operaciones
+## Operaciones
 
 * Set_grupo: Función que permite introducir todos los atributos del grupo.
 
