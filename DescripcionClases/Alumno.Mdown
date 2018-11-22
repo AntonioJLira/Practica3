@@ -1,0 +1,24 @@
+# Alumno
+
+Clase que recoge los datos de cada individuo dentro de la base de datos
+
+##Atributos
+
+
+* Nombre:Nombre del alumno.
+
+* Apellidos:Apellidos del alumno.
+
+* Teléfono:Número del telefono de contacto del alumno.
+
+* Direccion_Postal: Dirreción postal de su actual vivienda.
+
+* DNI: Numero del documento nacional de identidad del alumno sin tener en cuenta la letra.
+
+* Curso_mas_alto_cursado: Curso mas alto cursado por el alumno este año
+
+##Operaciones
+
+* Set_alumno: Función que permite introducir los datos del alumno
+
+* Get_alumno: Función que permite obtener todos los datos de un alumno 

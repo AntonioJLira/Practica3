@@ -1,0 +1,12 @@
+# Lista de alumnos
+
+Clase que recoge toda la información de todos los alumnos y la almacena para posteriormente trabajar con ella.
+
+##Atributos
+
+
+* Nº Alumnos: Número de alumnos dentro de la lista de alumnos.
+
+* Nº_Grupos: Número de grupos formados por alumnos dentro de la lista de alumnos.
+
+* Alumnos: Todos los datos de los alumnos dentro de la lista de alumnos.
