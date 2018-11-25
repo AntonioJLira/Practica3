@@ -5,11 +5,11 @@ Clase que recoge los datos de cada individuo dentro de la base de datos
 ## Atributos
 
 
-* Nombre:Nombre del alumno.
+* Nombre: Nombre del alumno.
 
-* Apellidos:Apellidos del alumno.
+* Apellidos: Apellidos del alumno.
 
-* Teléfono:Número del teléfono de contacto del alumno.
+* Teléfono: Número del teléfono de contacto del alumno.
 
 * Direccion_Postal: Dirreción postal de su actual vivienda.
 
