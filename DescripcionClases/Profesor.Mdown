@@ -6,11 +6,11 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 * Credenciales:
 
-* Nombre:Nombre del profesor.
+* Nombre: Nombre del profesor.
 
-* Apellidos:Apellidos del profesor.
+* Apellidos: Apellidos del profesor.
 
-* Teléfono:Número del teléfono de contacto del profesor.
+* Teléfono: Número del teléfono de contacto del profesor.
 
 * Dirección_Postal: Dirreción postal de su actual vivienda.
 
