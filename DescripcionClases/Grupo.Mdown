@@ -13,9 +13,6 @@ Clase que recoge los datos de un conjunto de alumnos que forman parte del mismo 
 
 * Alumnos: Nombre de los alumnos que conforman el grupo.
 
-* DNI: Numero del documento nacional de identidad del alumno sin tener en cuenta la letra.
-
-* Curso_mas_alto_cursado: Curso mas alto cursado por el alumno este año.
 
 ## Operaciones
 
