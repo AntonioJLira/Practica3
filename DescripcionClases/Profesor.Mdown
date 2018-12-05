@@ -16,7 +16,7 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 * GetRol: Función que permite eliminar un alumno que ya este dentro de la base de datos.
 
-* SetRol:
+* SetRol: Función que permite establecer el rol de un proferos.
 
 * GetCredenciales: Funcion que permite obtener el crendencial.
 
