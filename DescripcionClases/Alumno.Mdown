@@ -19,6 +19,26 @@ Clase que recoge los datos de cada individuo dentro de la base de datos
 
 ## Operaciones
 
-* Set_alumno: Función que permite introducir los datos del alumno
+* getNombre: Función que devuelve el nombre del alumno.
 
-* Get_alumno: Función que permite obtener todos los datos de un alumno
+* setNombre: Función que permite establecer el nombre del alumno.
+
+* getApellidos: Función que devuelve los apellidos de un determinado alumno.
+
+* setApellidos: Función que permite establecer los apellidos de un determinado alumno.
+
+* getTelefono: Función que devuelve el número de teléfono de un determinado alumno.
+
+* setTelefono: Función que permite establecer el número de teléfono de un alumno.
+
+* getDireccion_Postal: Función que permite obtener la dirección postal de un alumno.
+ 
+* setDireccion_Postal: Función que permite establecer la dirección postal de un alumno.
+
+* getDNI: Función que permite obtener el DNI de un alumno.
+
+* setDNI: Función que permite establecer el DNI de un alumno.
+
+* getMayor_Curso: Función que permite obtener el curso mas alto cursado por un alumno.
+
+* setMayor_Curso: Función que permite establecer el curso mas alto cursado.
