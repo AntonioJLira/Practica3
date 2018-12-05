@@ -4,7 +4,7 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 ## Atributos
 
-* *Agenda: *******AGENDA******* cambiar (no necesita set pero si get)
+* *Agenda: Puntero a la agenda.
 
 * Rol: Numero del documento nacional de identidad del profesor sin tener en cuenta la letra.
 
@@ -29,3 +29,5 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 * Cargar_BDD: Función que permite cargar una base de datos ya existente.
 
 * Crear_BDD: Función que permite crear una nueva base de datos.
+
+* Get_*agenda: Función que devuelve la posición del puntero en la agenda.
