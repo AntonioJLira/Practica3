@@ -4,29 +4,27 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 ## Atributos
 
-* Credenciales:
+* *Agenda: *******AGENDA******* cambiar (no necesita set pero si get)
 
-* Nombre: Nombre del profesor.
+* Rol: Numero del documento nacional de identidad del profesor sin tener en cuenta la letra.
 
-* Apellidos: Apellidos del profesor.
-
-* Teléfono: Número del teléfono de contacto del profesor.
-
-* Dirección_Postal: Dirreción postal de su actual vivienda.
-
-* DNI: Numero del documento nacional de identidad del profesor sin tener en cuenta la letra.
+* Credenciales: Numero de indentificación del profesor
 
 ## Operaciones
 
-* Añadir_alumno: Función que permite añadir un nuevo alumno dentro de la base de datos.
+* GetPuntero: Función que permite añadir un nuevo alumno dentro de la base de datos.
 
-* Eliminar_alumno: Función que permite eliminar un alumno que ya este dentro de la base de datos.
+* GetRol: Función que permite eliminar un alumno que ya este dentro de la base de datos.
 
-* Modificar_alumno: Función que permite modificar un alumno que ya este dentro de la base de datos.
+* SetRol:
 
-* Crear_grupo: Función que permite crear un nuevo grupo
+* GetCredenciales: Funcion que permite obtener el crendencial.
 
-* Eliminar_grupo: Función que permite eliminar un grupo ya creado dentro de la base de datos.
+* SetCredenciales: Función  que permite modificar o introducir un credencial
+
+* CargarBackup: Función que permite cargar una copia de seguridad ya existente.
+
+* GuardarBackup: Función que permite guardar una copia de seguridad.
 
 * Cargar_BDD: Función que permite cargar una base de datos ya existente.
 

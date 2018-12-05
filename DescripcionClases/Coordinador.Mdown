@@ -1,9 +1,0 @@
-# Coordinador
-
-Clase heredada de la clase "Profesor" que sera encargado a parte de todo lo que puede realizar un profesor, de realizar las copias de seguridad de la base de datos.
-
-## Atributos
-
-## Operaciones
-
-* Crear_copia_seguridad: Función que permite crear una copia de seguridad del sistema.

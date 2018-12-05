@@ -7,17 +7,29 @@ Clase que recoge los datos de un conjunto de alumnos que forman parte del mismo 
 
 * Nº_alumnos_grupo: Numero de alumnos que forman el grupo.
 
-* Líder: Nombre del líder del grupo.
+* DNI_Lider: DNI del lider del grupo.
 
-* Nº_Grupo: Numero identificador del grupo.
+* Num_Grupo: Numero identificador del grupo.
 
-* Alumnos: Nombre de los alumnos que conforman el grupo.
+* Alumnos_Grupo: Nombre de los alumnos que conforman el grupo.
 
 
 ## Operaciones
 
-* Set_grupo: Función que permite introducir todos los atributos del grupo.
+* getNum_alumnos_grupo: Función que devuelve el número de alumnos que forman el grupo.
 
-* Get_lider: Función que permite obtener el nombre del líder del grupo.
+* setNum_alumnos_grupo: Función que nos permite establecer el numero de alumnos que hay en un grupo.
 
-* Mostrar_integrantes: Funcón que permite mostrar los integrantes del grupo.
+* getDNI_lider: Función que permite obtener el DNI del líder del grupo.
+
+* setDNI_lider: Función que permite establecer el DNI del líder del grupo.
+
+* getNum_Grupo: Función que permite obtener el número identificador del grupo.
+
+* setNum_Grupo: Función que permite establecer el número indetificador del grupo.
+
+* getAlumnos_Grupo: Función que permite obtener el número de alumnos que hay en el grupo.
+
+* setAlumnos_Grupo: Función que permite establecer el número de alumnos que hay en el grupo.
+
+

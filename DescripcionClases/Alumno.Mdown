@@ -13,7 +13,7 @@ Clase que recoge los datos de cada individuo dentro de la base de datos
 
 * Direccion_Postal: Dirreción postal de su actual vivienda.
 
-* DNI: Numero del documento nacional de identidad del alumno sin tener en cuenta la letra.
+* DNI: Número del documento nacional de identidad del alumno sin tener en cuenta la letra.
 
 * Mayor_Curso: Curso mas alto cursado por el alumno este año
 

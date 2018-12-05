@@ -1,4 +1,4 @@
-# Lista de alumnos
+# Agenda
 
 Clase que recoge toda la información de todos los alumnos y la almacena para posteriormente trabajar con ella.
 
@@ -10,3 +10,18 @@ Clase que recoge toda la información de todos los alumnos y la almacena para po
 * Nº_Grupos: Número de grupos formados por alumnos dentro de la lista de alumnos.
 
 * Alumnos: Todos los datos de los alumnos dentro de la lista de alumnos.
+
+
+## Operaciones 
+
+* getNum_alumnos: Función que nos devolverá el número de alumnos que hay en la lista.
+
+* setNum_alumnos: Función que nos permitirá definir el número de alumnos que hay en la lista.
+
+* getNum_grupos: Función que nos devolverá el número de grupos que hay en la lista.
+
+* setNum_grupos: Función que nos permitirá definir el numero de grupos que hay en la lista.
+
+* get_Alumnos: Función que nos devolverá el nombre de todos los alumnos de la lista.
+
+* set_Alumnos: Función que nos permitirá definir el nombre de los alumnos de la lista.
