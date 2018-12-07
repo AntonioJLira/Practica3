@@ -5,7 +5,7 @@ Clase que recoge los datos de un conjunto de alumnos que forman parte del mismo 
 ## Atributos
 
 
-* Nº_alumnos_grupo: Numero de alumnos que forman el grupo.
+* Num_alumnos_grupo: Numero de alumnos que forman el grupo.
 
 * DNI_Lider: DNI del lider del grupo.
 
