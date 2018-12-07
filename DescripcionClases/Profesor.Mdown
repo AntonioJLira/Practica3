@@ -12,7 +12,6 @@ Clase que sera la principal dentro de nuestro sistema.Es la encargada de trabaja
 
 ## Operaciones
 
-* GetPuntero: Función que permite añadir un nuevo alumno dentro de la base de datos.
 
 * GetRol: Función que permite eliminar un alumno que ya este dentro de la base de datos.
 
